@@ -1,0 +1,93 @@
+textarea{
+    /* background-color: aliceblue; */
+    align-items: center;
+    margin: auto;
+    margin-left: 10pt;
+    margin-bottom: 10px;
+    border-color : rgb(186, 189, 190);
+    outline: skyblue;
+    border-radius: 5px;
+    /* align-content: center; */
+}
+textarea:focus{
+    border: 2px solid skyblue;
+}
+
+input {
+    /* background-color:lemonchiffon; */
+    font-size: 14pt;
+    height: 22pt;
+    width: 170pt;
+    margin-left: 10pt;
+    border-color: snow;
+    outline: skyblue;
+    border-radius: 5px;
+    
+}
+
+input:focus{
+    border: 2px solid skyblue;
+}
+
+input[type=submit]{
+    color:white;
+    margin-left: 10pt;
+    background-color:rgb(63, 143, 175);
+    border-style:inherit; 
+    border-radius: 5px;
+    
+    
+}
+
+form{
+    
+    
+    align-items: center;
+    margin-left: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    
+}
+
+
+img{
+    margin-left: 80px;
+}
+#row{
+    color: slateblue;
+}
+html{
+    background-color: rgb(211, 233, 241);
+    margin-left: 50px;
+    margin-right: 250px;
+    
+    
+}
+
+h1{
+    color: blue;
+    margin-left: 33pt;
+    margin-top: 10pt;
+}
+
+div{
+    background-color: white;
+    /* margin-left: 10pt; */
+    margin-top: 10pt;
+}
+
+label{
+    margin-left: 10pt;
+    font-size: 20px;
+}
+
+p{
+    margin-left: 33pt;
+    margin-right: 33pt;
+}
+
+h2{
+    margin-left: 10pt;
+}
+
